@@ -1,4 +1,6 @@
 ; Programme de la carte esclave - le retour custom
+;
+; Copyright - Lorenz Gandon & Stephanie Ouillon
 ; 
 ; Commande de la sirene
 ; Commande du faisceau laser

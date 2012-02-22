@@ -1,3 +1,5 @@
+;Copyright - Alain Lebègue, Arthur Foltz & Nicolas Hascoet
+;
 ;soustraction et addition sur 16 bits
 ;commande du moteur et du servo de direction
 ;l'action sur un bouton poussoir met le bit a 0
