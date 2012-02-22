@@ -1,0 +1,5 @@
+Projet de voiture autoguidée suivant une piste et tirant sur une cible à détecter sur le circuit.
+Programmation en assembleur pour AT89C51 et AT89C2051.
+
+cours/ : programmes d'affichages sur afficheur 7 segments et écran LCD, chronomètre, interruptions...
+projet/
